@@ -9,4 +9,4 @@ do you even mean oh no please don't sue me.
 
 ### Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/sirhn/sirhn-atom-syntax/master/screenshot.png)
+![Screenshot](https://github.com/sirhn/sirhn-atom-syntax/master/screenshot1.png)
