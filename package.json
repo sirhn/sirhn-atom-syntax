@@ -45,7 +45,7 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "homepage": "https://github.com/sirhn/sirhn-atom-syntax#readme",
+  "homepage": "https://github.com/sirhn/sirhn-atom-syntax",
   "license": "MIT",
   "name": "sirhn-atom-syntax",
   "optionalDependencies": {},
